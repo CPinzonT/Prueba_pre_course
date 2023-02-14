@@ -1,2 +1,2 @@
-# Prueba_pre_course
-modulo 2 precourse
+prueba de como crear un reporsitorio y clonarlo al pc
+
